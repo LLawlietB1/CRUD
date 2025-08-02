@@ -1,0 +1,17 @@
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\bin\Debug\net8.0\crud.Exceptions.deps.json
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\bin\Debug\net8.0\crud.Exceptions.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\bin\Debug\net8.0\crud.Exceptions.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.csproj.AssemblyReference.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.AssemblyInfoInputs.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.AssemblyInfo.cs
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.csproj.CoreCompileInputs.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\refint\crud.Exceptions.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Exceptions\obj\Debug\net8.0\ref\crud.Exceptions.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.ResourceExceptions.resources
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Exceptions\obj\Debug\net8.0\crud.Exceptions.csproj.GenerateResource.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Exceptions\bin\Debug\net8.0\crud.Communication.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Exceptions\bin\Debug\net8.0\crud.Communication.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Exceptions\obj\Debug\net8.0\crud.Exc.F2CA1848.Up2Date

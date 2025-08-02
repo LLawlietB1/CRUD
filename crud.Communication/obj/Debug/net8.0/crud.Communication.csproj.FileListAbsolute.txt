@@ -1,0 +1,14 @@
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\bin\Debug\net8.0\crud.Communication.deps.json
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\bin\Debug\net8.0\crud.Communication.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\bin\Debug\net8.0\crud.Communication.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.csproj.AssemblyReference.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.AssemblyInfoInputs.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.AssemblyInfo.cs
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.csproj.CoreCompileInputs.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\refint\crud.Communication.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\crud.Communication.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Communication\obj\Debug\net8.0\ref\crud.Communication.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Communication\obj\Debug\net8.0\crud.Communication.csproj.GenerateResource.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.Communication\obj\Debug\net8.0\crud.Communication.ResponsesDefault.resources
