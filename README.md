@@ -69,14 +69,4 @@ Acesse `/swagger` após iniciar o projeto para visualizar e testar os endpoints.
 - `Security/`: Implementações de segurança.
 - `Properties/`: Configurações do projeto.
 
-## Contribuição
-
-Pull requests são bem-vindos! Para grandes mudanças, abra uma issue primeiro para discutir o que deseja modificar.
-
-## Licença
-
-Este projeto está sob a licença MIT.
-
----
-
 > Dúvidas ou sugestões? Abra uma issue!
