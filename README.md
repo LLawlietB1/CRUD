@@ -21,7 +21,7 @@ Este projeto CRUD foi desenvolvido com o propósito principal de aprendizado e p
 
 - **crud.Communication**: É responsável por conter apenas as classes de resposta e requisição. Fará o papel de conversor de dados, sendo recebidas as requisições HTTP e convertido em classes, isso ocorre devido ao Model Binder do ASP.NET, facilitando a comunicação entre API e o Application Project. 
 
-- **crud.Infrastructure**: Somente o projeto de Application tem acesso que é onde está a classe, o repositório e a conexão do banco de dados. Além de conter também as entidades que são classes espelhando o banco de dados. Essa parte do projeto está ocultada por conter somente a entidade account e o caminho ao banco de dados.
+- **crud.Infrastructure**: Somente o projeto de Application tem acesso que é onde está a classe, o repositório e a conexão do banco de dados. Além de conter também as entidades que são classes espelhando o banco de dados. O crudDbContext original foi ocultado por conter dados sensíveis, mas no lugar foi gerado o crudDbContextExample que segue o mesmo modelo do DbContext original. 😉
 
 - **crud.Exceptions**: Nele serão desenvolvidas as exceções do projeto, sendo uma forma de padronizar e centralizar a forma como os erros são tratados na aplicação. 
 

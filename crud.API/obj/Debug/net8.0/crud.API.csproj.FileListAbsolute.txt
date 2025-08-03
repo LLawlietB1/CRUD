@@ -96,3 +96,4 @@ E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.API\obj\Debug\net
 E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.API\obj\Debug\net8.0\crud.API.genruntimeconfig.cache
 E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.API\obj\Debug\net8.0\ref\crud.API.dll
 E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\CRUD\crud.API\obj\Debug\net8.0\crud.API.sourcelink.json

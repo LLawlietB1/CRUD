@@ -1,0 +1,12 @@
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\bin\Debug\net8.0\crud.Infrastructure.deps.json
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\bin\Debug\net8.0\crud.Infrastructure.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\bin\Debug\net8.0\crud.Infrastructure.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.csproj.AssemblyReference.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.AssemblyInfoInputs.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.AssemblyInfo.cs
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\refint\crud.Infrastructure.dll
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\crud.Infrastructure.pdb
+E:\Lucas\Estudos\Treino DotNet\ParadaPorContaPropria\crud\crud.Infrastructure\obj\Debug\net8.0\ref\crud.Infrastructure.dll
